@@ -1,3 +1,5 @@
+Como instalarlo video tutorial:
+https://www.youtube.com/watch?v=Nri0i9fh1Kk
 
 #  **Install on windows**
 
